@@ -2,5 +2,5 @@ container {
   width: 500px;
 }
 .card-body {
-  background:black;
+  width: 500px;
 }
